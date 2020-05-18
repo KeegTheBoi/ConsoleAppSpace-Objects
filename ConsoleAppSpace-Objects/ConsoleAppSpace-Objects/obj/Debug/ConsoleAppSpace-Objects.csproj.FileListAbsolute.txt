@@ -1,0 +1,6 @@
+C:\Users\Keegan\source\repos\ConsoleAppSpace-Objects\ConsoleAppSpace-Objects\bin\Debug\ConsoleAppSpace-Objects.exe.config
+C:\Users\Keegan\source\repos\ConsoleAppSpace-Objects\ConsoleAppSpace-Objects\bin\Debug\ConsoleAppSpace-Objects.exe
+C:\Users\Keegan\source\repos\ConsoleAppSpace-Objects\ConsoleAppSpace-Objects\bin\Debug\ConsoleAppSpace-Objects.pdb
+C:\Users\Keegan\source\repos\ConsoleAppSpace-Objects\ConsoleAppSpace-Objects\obj\Debug\ConsoleAppSpace-Objects.csprojAssemblyReference.cache
+C:\Users\Keegan\source\repos\ConsoleAppSpace-Objects\ConsoleAppSpace-Objects\obj\Debug\ConsoleAppSpace-Objects.exe
+C:\Users\Keegan\source\repos\ConsoleAppSpace-Objects\ConsoleAppSpace-Objects\obj\Debug\ConsoleAppSpace-Objects.pdb
